@@ -60,4 +60,4 @@ The Random Forest model achieved better overall accuracy and ROC-AUC than Logist
 ## Author
 
 GitHub:
-[reh andalal777-dot] (https://github.com/rehandalal777-dot)
+[reh andalal777-dot](https://github.com/rehandalal777-dot)
